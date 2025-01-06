@@ -3,7 +3,7 @@
 
 - 🔎 Experienced in **Python, Bash, Docker, Kubernetes, CI/CD Pipelines (Jenkins, GitOps, ArgoCD), Monitoring Tools (Prometheus, Grafana, ELK), Azure, CloudFormation, Infrastructure as Code, Security and Compliance**
 
-- ✉ Reach me at **atikshaikh.20.11.1999@gmail.com**
+- ✉ Reach me at **atiks19999@gmail.com**
 
 ## 🌐 Socials:
 <p align="left">
