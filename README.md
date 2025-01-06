@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atik Shaikh</h1>
-<h3 align="center">A passionate DataOps Engineer from India</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=atik-shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="atik-shaikh" /> </p> -->
+<h3 align="center">A DevOps Engineer passionate about bridging the gap between development and operations</h3>
 
-- 💬 Ask me about **Python, Perl, Bash, Google Cloud Platform (GCP), Airflow, Docker, PostgreSQL, DevOps, Git, Jenkins, CircleCI, Ansible, Public Cloud Security, Google Kubernetes Engine (GKE), Cloud Networking, Cloud Storage, Identity and Access Management (IAM), Authentication, Authorization, Encryption, GDPR**
+- 🔎 Experienced in **Python, Bash, Docker, Kubernetes, CI/CD Pipelines (Jenkins, GitOps, ArgoCD), Monitoring Tools (Prometheus, Grafana, ELK), Azure, CloudFormation, Infrastructure as Code, Security and Compliance**
 
-- 📫 How to reach me **atikshaikh.20.11.1999@gmail.com**
+- ✉ Reach me at **atikshaikh.20.11.1999@gmail.com**
 
 ## 🌐 Socials:
 <p align="left">
@@ -12,7 +11,21 @@
 </p>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Airflow](https://img.shields.io/badge/airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%234285F4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![ArgoCD](https://img.shields.io/badge/argoCD-%23F76B1C.svg?style=for-the-badge&logo=argo&logoColor=white)
+
+# 🔁 Key Projects:
+- **Hotel Management System:** Implemented a single-page application using ReactJS, optimized with CI/CD pipelines and JWT-based authentication for secure operations.
+- **Crypto Price Tracker:** Developed a real-time cryptocurrency tracking platform using ReactJS, integrating Prometheus and Grafana for monitoring.
+- **Lift Simulator:** Designed an interactive web application simulating automation workflows, emphasizing fault tolerance and scalability.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Atik-Shaikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
